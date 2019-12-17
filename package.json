@@ -41,7 +41,7 @@
 		"@turf/flatten": "^5.1.5",
 		"@turf/helpers": "^6.1.4",
 		"chalk": "^2.4.2",
-		"cldr": "^5.5.3",
+		"cldr": "^5.5.4",
 		"cli-autocomplete": "^0.4.3",
 		"csv-parse": "^4.8.2",
 		"db-stations": "^2.11.0",
