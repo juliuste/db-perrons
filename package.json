@@ -62,7 +62,7 @@
 		"ndjson": "^1.5.0",
 		"parse-decimal-number": "^1.0.0",
 		"select-prompt": "^0.3.2",
-		"tape": "^4.11.0",
+		"tape": "^4.13.0",
 		"tape-promise": "^4.0.0",
 		"text-prompt": "^0.1.3"
 	},
