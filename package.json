@@ -55,7 +55,7 @@
 		"german-administrative-areas": "^0.2.0",
 		"get-stream": "^5.1.0",
 		"github-slugger": "^1.2.1",
-		"got": "^9.6.0",
+		"got": "^11.1.4",
 		"is-uic-location-code": "0.0.1",
 		"lodash": "^4.17.15",
 		"mri": "^1.1.4",
