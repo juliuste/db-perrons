@@ -43,7 +43,7 @@
 		"chalk": "^2.4.2",
 		"cldr": "^5.5.3",
 		"cli-autocomplete": "^0.4.3",
-		"csv-parse": "^4.8.2",
+		"csv-parse": "^4.10.1",
 		"db-stations": "^2.11.0",
 		"depcheck": "^0.9.1",
 		"eslint": "^6.7.2",
